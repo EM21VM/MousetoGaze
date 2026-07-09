@@ -1,0 +1,3 @@
+[submodule "SourceCode/GazeTracking"]
+	path = SourceCode/GazeTracking
+	url = https://github.com/antoinelame/GazeTracking
